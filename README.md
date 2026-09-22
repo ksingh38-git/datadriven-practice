@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Stranger](./practice/python/the-first-stranger) | Python | Easy | 2026-07-22 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-07-22 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-07-21 |
 | [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-07-21 |
