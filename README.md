@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-09-16 |
 | [All Told](./practice/python/all-told) | Python | Easy | 2026-09-16 |
 | [Subarray Signal](./practice/python/subarray-signal) | Python | Medium | 2026-09-16 |
 | [Quality Gate](./practice/python/quality-gate) | Python | Easy | 2026-09-16 |
