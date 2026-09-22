@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Resolved vs Unresolved Alerts](./practice/sql/resolved-vs-unresolved-alerts) | SQL | Hard | 2026-09-07 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-08-14 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-14 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-08-13 |
