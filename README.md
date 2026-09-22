@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-09-20 |
 | [Transform Column](./practice/python/transform-column) | Python | Easy | 2026-09-19 |
 | [Column Range](./practice/python/column-range) | Python | Easy | 2026-09-19 |
 | [Value Count](./practice/python/value-count) | Python | Easy | 2026-09-19 |
