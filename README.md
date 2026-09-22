@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Subarray Signal](./practice/python/subarray-signal) | Python | Medium | 2026-09-16 |
 | [Quality Gate](./practice/python/quality-gate) | Python | Easy | 2026-09-16 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-09-15 |
 | [The Streak Breaker](./practice/python/the-streak-breaker) | Python | Easy | 2026-09-15 |
