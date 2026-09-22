@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-14 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-08-13 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Medium | 2026-08-13 |
 | [The Deep Dictionary](./practice/python/the-deep-dictionary) | Python | Easy | 2026-08-13 |
