@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-09-08 |
 | [Verbose by Design](./practice/sql/verbose-by-design) | SQL | Hard | 2026-09-07 |
 | [The Odd Digits](./practice/python/the-odd-digits) | Python | Easy | 2026-09-07 |
 | [Resolved vs Unresolved Alerts](./practice/sql/resolved-vs-unresolved-alerts) | SQL | Hard | 2026-09-07 |
