@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Streak Breaker](./practice/python/the-streak-breaker) | Python | Easy | 2026-09-15 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-09-15 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-09-09 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-09-08 |
