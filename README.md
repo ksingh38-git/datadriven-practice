@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Null Counter](./practice/python/null-counter) | Python | Easy | 2026-09-22 |
 | [High Water Mark](./practice/python/high-water-mark) | Python | Easy | 2026-09-22 |
 | [Explode List](./practice/python/explode-list) | Python | Easy | 2026-09-22 |
 | [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-09-20 |
