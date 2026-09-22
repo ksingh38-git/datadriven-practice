@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Session Duration by Device](./practice/sql/average-session-duration-by-device) | SQL | Easy | 2026-09-16 |
 | [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-09-16 |
 | [All Told](./practice/python/all-told) | Python | Easy | 2026-09-16 |
 | [Subarray Signal](./practice/python/subarray-signal) | Python | Medium | 2026-09-16 |
