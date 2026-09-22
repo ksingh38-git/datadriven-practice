@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-07-21 |
 | [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-07-20 |
 
 <!-- datadriven:index:end -->
