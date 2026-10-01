@@ -4,9 +4,15 @@
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/three_peaks)
 
+## How it went
+
 | | |
 |---|---|
 | Solved | 2026-07-21 |
-| Query complexity | O(n log n) |
+| Accepted | on the 9th submission |
+| Time | 6 min |
+| Hints | none |
+| Query complexity | O(n log n), optimal |
+| Concepts | Common Table Expressions, Deduplication, Grouping, Row Limiting, Sorting Results, Window Partitioning, Query Basics, Storage Optimization, Scalar Subquery, Sums & Averages, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
