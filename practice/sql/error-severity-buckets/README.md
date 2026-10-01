@@ -4,9 +4,15 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/error_severity_buckets)
 
+## How it went
+
 | | |
 |---|---|
 | Solved | 2026-07-22 |
-| Query complexity | O(n) |
+| Accepted | on the 2nd submission |
+| Time | under a minute |
+| Hints | none |
+| Query complexity | O(n), optimal |
+| Concepts | Range Filtering, Conditional Logic, Null Handling, Query Basics, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
