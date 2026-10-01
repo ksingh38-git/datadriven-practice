@@ -4,9 +4,15 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/average_session_duration_by_device)
 
+## How it went
+
 | | |
 |---|---|
 | Solved | 2026-09-16 |
-| Query complexity | O(n log n) |
+| Accepted | on the first submission |
+| Time | 9 min |
+| Hints | none |
+| Query complexity | O(n log n), optimal |
+| Concepts | Grouping, Inner Joins, Sorting Results, Query Basics, Sums & Averages |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
