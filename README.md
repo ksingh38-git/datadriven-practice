@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Inactive Users in Date Range](./practice/sql/inactive-users-in-date-range) | SQL | Medium | 2026-10-02 |
 | [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-10-02 |
 | [First Migration Record](./practice/sql/first-migration-record) | SQL | Easy | 2026-10-02 |
 | [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-10-02 |
