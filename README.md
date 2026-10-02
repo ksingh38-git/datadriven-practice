@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-10-02 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-09-23 |
 | [Every Trace](./practice/python/every-trace) | Python | Medium | 2026-09-22 |
 | [The Running Total](./practice/python/the-running-total) | Python | Easy | 2026-09-22 |
