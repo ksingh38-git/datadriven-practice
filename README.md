@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-10-02 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-02 |
 | [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-10-02 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-09-23 |
