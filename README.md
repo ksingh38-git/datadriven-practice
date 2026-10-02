@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Longest Deploy With Full Identifier](./practice/sql/longest-deploy-with-full-identifier) | SQL | Easy | 2026-10-02 |
 | [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-10-02 |
 | [Inactive Users in Date Range](./practice/sql/inactive-users-in-date-range) | SQL | Medium | 2026-10-02 |
 | [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-10-02 |
