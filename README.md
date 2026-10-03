@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-10-03 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-03 |
 | [Find the Fifth Largest Cost](./practice/sql/find-the-fifth-largest-cost) | SQL | Medium | 2026-10-03 |
 | [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-10-03 |
