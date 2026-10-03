@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Third Highest Spender](./practice/sql/third-highest-spender) | SQL | Medium | 2026-10-03 |
 | [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-03 |
 | [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-10-03 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-03 |
