@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-10-03 |
 | [Low-Volume Stream Topics](./practice/sql/low-volume-stream-topics) | SQL | Medium | 2026-10-03 |
 | [Repeat Purchase Window](./practice/sql/repeat-purchase-window) | SQL | Medium | 2026-10-03 |
 | [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-10-03 |
