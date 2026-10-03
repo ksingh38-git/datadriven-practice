@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Frequent Message Senders](./practice/sql/frequent-message-senders) | SQL | Medium | 2026-10-03 |
 | [Long Searches Containing 'er'](./practice/sql/long-searches-containing-er) | SQL | Easy | 2026-10-03 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-03 |
 | [Third Highest Spender](./practice/sql/third-highest-spender) | SQL | Medium | 2026-10-03 |
