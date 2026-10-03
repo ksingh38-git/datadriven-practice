@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-10-03 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-10-03 |
 | [Kings of the Calendar](./practice/sql/kings-of-the-calendar) | SQL | Hard | 2026-10-03 |
 | [Frequent Message Senders](./practice/sql/frequent-message-senders) | SQL | Medium | 2026-10-03 |
