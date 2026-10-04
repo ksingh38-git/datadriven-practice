@@ -1,14 +1,16 @@
+
+
 from collections import Counter
 def most_frequent(items: list) -> list:
-  frq = Counter(items)
-  max_r = float('-inf')
-  res = [] 
-  for i , key in frq.items():
-    if key > max_r:
-      max_r = key
-      res = [i]
-    elif key == max_r:
-      res.append(i)
+  freq = Counter(items)
+  res = []
+  max_val = float('-inf')
+  for key, val in freq.items():
+    if val > max_val:
+      res = [key]
+      max_val = val
+    elif max_val == val:
+      res.append(key)
+  return sorted(res)
+ 
       
-  res.sort()
-  return res
