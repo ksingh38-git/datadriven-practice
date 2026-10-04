@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The String Shrinker](./practice/python/the-string-shrinker) | Python | Easy | 2026-10-04 |
 | [The Target Hunt](./practice/python/the-target-hunt) | Python | Medium | 2026-10-04 |
 | [Filtered User Roster](./practice/sql/filtered-user-roster) | SQL | Easy | 2026-10-04 |
 | [The Crowded Hour](./practice/sql/the-crowded-hour) | SQL | Easy | 2026-10-03 |
