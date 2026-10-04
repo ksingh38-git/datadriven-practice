@@ -1,10 +1,9 @@
 def prefix_sum(nums):
-  left = 0
+  count = 0
   res = []
-  for i in range(len(nums)):
-    left += nums[i]
-    res.append(left)
-
+  for num in nums:
+    count += num
+    res.append(count)
 
 
 
