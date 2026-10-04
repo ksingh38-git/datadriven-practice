@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Output Peak](./practice/python/the-output-peak) | Python | Hard | 2026-10-04 |
 | [The Trade Signal](./practice/python/the-trade-signal) | Python | Easy | 2026-10-04 |
 | [The String Shrinker](./practice/python/the-string-shrinker) | Python | Easy | 2026-10-04 |
 | [The Target Hunt](./practice/python/the-target-hunt) | Python | Medium | 2026-10-04 |
