@@ -3,6 +3,4 @@ def index_of_all(readings, target):
   for i in range(len(readings)):
     if readings[i] == target:
       res.append(i)
-
-
   return res
