@@ -1,9 +1,10 @@
 def running_total(deposits):
-  count = 0
-  result = []
-  for total in deposits:
-    count = count + total
-    result.append(count)
+  sum = 0
+  res = []
+  for d in deposits:
+    sum += d
+    res.append(sum)
+    
 
 
-  return result
+  return res
