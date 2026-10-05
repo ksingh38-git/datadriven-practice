@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-05 |
 | [Rolling Revenue Average](./practice/sql/rolling-revenue-average) | SQL | Hard | 2026-10-05 |
 | [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-10-05 |
 | [Even-ID June Signups](./practice/sql/even-id-june-signups) | SQL | Easy | 2026-10-05 |
