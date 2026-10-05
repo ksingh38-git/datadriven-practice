@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Even-ID February Signups](./practice/sql/even-id-february-signups) | SQL | Easy | 2026-10-05 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-10-05 |
 | [The Heavy Hitters](./practice/sql/the-heavy-hitters) | SQL | Easy | 2026-10-05 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-10-05 |
