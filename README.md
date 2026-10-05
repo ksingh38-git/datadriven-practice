@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Priciest Item in Each Category](./practice/sql/priciest-item-in-each-category) | SQL | Medium | 2026-10-05 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-10-05 |
 | [Transaction Share of User Spend](./practice/sql/transaction-share-of-user-spend) | SQL | Medium | 2026-10-05 |
 | [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-05 |
