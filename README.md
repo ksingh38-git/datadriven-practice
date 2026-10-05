@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-10-05 |
 | [Signups by Age Bucket Since April](./practice/sql/signups-by-age-bucket-since-april) | SQL | Easy | 2026-10-05 |
 | [Keys That Never Die](./practice/sql/keys-that-never-die) | SQL | Medium | 2026-10-05 |
 | [Highest Daily Spend](./practice/sql/highest-daily-spend) | SQL | Medium | 2026-10-05 |
