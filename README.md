@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-10-05 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-05 |
 | [The Output Peak](./practice/python/the-output-peak) | Python | Hard | 2026-10-04 |
 | [The Trade Signal](./practice/python/the-trade-signal) | Python | Easy | 2026-10-04 |
