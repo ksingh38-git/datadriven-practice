@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-10-05 |
 | [Transaction Share of User Spend](./practice/sql/transaction-share-of-user-spend) | SQL | Medium | 2026-10-05 |
 | [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-05 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-10-05 |
