@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Spending Floor](./practice/sql/the-spending-floor) | SQL | Easy | 2026-10-05 |
 | [Top Services by Uptime](./practice/sql/top-services-by-uptime) | SQL | Medium | 2026-10-05 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-05 |
 | [Rolling Revenue Average](./practice/sql/rolling-revenue-average) | SQL | Hard | 2026-10-05 |
