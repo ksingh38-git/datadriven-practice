@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-10-05 |
 | [The Loudest Caller](./practice/sql/the-loudest-caller) | SQL | Easy | 2026-10-05 |
 | [Session-Fit Content](./practice/sql/session-fit-content) | SQL | Easy | 2026-10-05 |
 | [Repeat Buyers Across Halves](./practice/sql/repeat-buyers-across-halves) | SQL | Medium | 2026-10-05 |
