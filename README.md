@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Highest Daily Spend](./practice/sql/highest-daily-spend) | SQL | Medium | 2026-10-05 |
 | [The Weight of Between](./practice/sql/the-weight-of-between) | SQL | Easy | 2026-10-05 |
 | [The Spending Floor](./practice/sql/the-spending-floor) | SQL | Easy | 2026-10-05 |
 | [Top Services by Uptime](./practice/sql/top-services-by-uptime) | SQL | Medium | 2026-10-05 |
