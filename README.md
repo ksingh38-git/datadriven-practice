@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-10-05 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-10-05 |
 | [The Loudest Caller](./practice/sql/the-loudest-caller) | SQL | Easy | 2026-10-05 |
 | [Session-Fit Content](./practice/sql/session-fit-content) | SQL | Easy | 2026-10-05 |
