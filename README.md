@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Notification That Paid Off](./practice/sql/the-notification-that-paid-off) | SQL | Hard | 2026-10-06 |
 | [The Tiebreaker](./practice/sql/the-tiebreaker) | SQL | Easy | 2026-10-05 |
 | [Largest Single Cloud Cost](./practice/sql/largest-single-cloud-cost) | SQL | Medium | 2026-10-05 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-10-05 |
