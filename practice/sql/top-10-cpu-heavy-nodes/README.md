@@ -2,7 +2,7 @@
 
 *The ten hungriest nodes.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/top_10_cpu_heavy_nodes)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/top_10_cpu_heavy_nodes)
 
 ## How it went
 
