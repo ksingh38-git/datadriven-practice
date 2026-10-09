@@ -2,7 +2,7 @@
 
 *One user triggered more API calls than anyone.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/top_api_caller)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/top_api_caller)
 
 ## How it went
 
