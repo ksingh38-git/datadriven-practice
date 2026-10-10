@@ -2,7 +2,7 @@
 
 *Two accounts. One ledger. Watch the spend stack up.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/two_names_on_the_ledger)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/two_names_on_the_ledger)
 
 ## How it went
 
