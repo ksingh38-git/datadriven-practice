@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 | [The Tiebreaker](./practice/sql/the-tiebreaker) | SQL | Easy | 2026-10-05 |
 | [Largest Single Cloud Cost](./practice/sql/largest-single-cloud-cost) | SQL | Medium | 2026-10-05 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-10-05 |
-| [Top 10 CPU-Heavy Nodes](./practice/sql/top-10-cpu-heavy-nodes) | SQL | Easy | 2026-10-05 |
+| [Top 10 CPU-Heavy Nodes](./practice/sql/top-10-cpu-heavy-nodes) | SQL | Medium | 2026-10-05 |
 | [US-East KV Store Entries](./practice/sql/us-east-kv-store-entries) | SQL | Easy | 2026-10-05 |
 | [Weekly Transaction Volume](./practice/sql/weekly-transaction-volume) | SQL | Easy | 2026-10-05 |
 | [Users Without Sessions](./practice/sql/users-without-sessions) | SQL | Medium | 2026-10-05 |
