@@ -2,7 +2,7 @@
 
 *Resolved versus open. By severity.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/resolved_vs_unresolved_alerts)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/resolved_vs_unresolved_alerts)
 
 ## How it went
 
