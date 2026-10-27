@@ -99,6 +99,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 | [Verbose by Design](./practice/sql/verbose-by-design) | SQL | Hard | 2026-09-07 |
 | [The Odd Digits](./practice/python/the-odd-digits) | Python | Easy | 2026-09-07 |
 | [Resolved vs Unresolved Alerts](./practice/sql/resolved-vs-unresolved-alerts) | SQL | Hard | 2026-09-07 |
+| [Open Wounds](./practice/spark/open-wounds) | Spark | Hard | 2026-08-14 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-08-14 |
 | [Tokens With Non-Read Scope Prefix](./practice/spark/tokens-with-non-read-scope-prefix) | Spark | Medium | 2026-08-14 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-14 |
