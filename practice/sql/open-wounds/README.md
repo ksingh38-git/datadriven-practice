@@ -12,7 +12,7 @@
 | Accepted | on the 3rd submission |
 | Time | 2 min |
 | Hints | none |
-| Query complexity | O(n²), the optimum is O(n log n) |
+| Query complexity | O(n log n), optimal |
 | Concepts | Date vs Timestamp, Null Handling, Row Limiting, Sorting Results, Window Partitioning, Row Numbering, Query Basics, Storage Optimization, Scalar Subquery, Timestamp Types, Filtering, Window Deduplication |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
