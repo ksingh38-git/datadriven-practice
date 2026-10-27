@@ -1,4 +1,4 @@
 
-from pyspark.sql import functions as F
-
-api_tokens.filter(~F.col("scope").like("read%")).select(F.countDistinct("owner_id").alias("non_read_owner_count"))
+SELECT COUNT( DISTINCT OWNER_ID) AS NON_READ_OWNER_COUNT
+FROM API_TOKENS
+WHERE SCOPE NOT LIKE 'read%' ;
