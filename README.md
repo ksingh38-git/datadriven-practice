@@ -40,7 +40,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wolf_7586), committ
 | [Even-ID February Signups](./practice/sql/even-id-february-signups) | SQL | Easy | 2026-10-05 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-10-05 |
 | [The Heavy Hitters](./practice/sql/the-heavy-hitters) | SQL | Easy | 2026-10-05 |
-| [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-10-05 |
+| [The Floor Price](./practice/sql/the-floor-price) | SQL | Easy | 2026-10-05 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-05 |
 | [The Output Peak](./practice/python/the-output-peak) | Python | Hard | 2026-10-04 |
 | [The Trade Signal](./practice/python/the-trade-signal) | Python | Easy | 2026-10-04 |
